@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1ceb4c53bd3504588c98a1f1f972de, type: 3}
+  m_Name: ae-Karina
+  m_EditorClassIdentifier: 
+  name: ae-Karina
+  element: 1
+  role: 0
+  baseRarity: 5
+  atk: 671
+  HP: 5809
+  def: 648
+  spd: 102
+  crit: 0.15
+  critDmg: 1.5
+  eff: 0
+  ER: 0
+  dualAtk: 0.05
